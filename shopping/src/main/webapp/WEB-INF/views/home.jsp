@@ -18,7 +18,7 @@
 	    <script type="text/javascript">
 
 			if("${resultFlag}" == "0"){
-				alert("사용자 정보를 정확하게 입력하세요...!!!!");
+				alert("사용자 정보를 정확하게 입력하세요...!!!");
 			}
 		
 		
